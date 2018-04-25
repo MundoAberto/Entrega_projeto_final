@@ -1,0 +1,82 @@
+.direita{
+	float: right;
+}
+
+.topper{
+	margin-top: 5%;
+	font-color:#FFFFFF;
+}
+
+.epc{
+	margin-top: 0.5%;
+	font-color:#FFFFFF;
+}
+
+.coluna1{
+	width: 45%;
+	float: left;
+	padding: 2%;
+}
+.gridDupla{
+	margin:2%;
+	padding:1%;
+}
+.imagemLeft{
+	border: 1px solid black;	
+	width:70%;
+	float:left;
+}
+.resenha{
+	margin:4%;
+	float:left;
+	width:65%;
+	padding:5px;
+	border:1px solid black;
+	border-radius:5px;
+}
+.texto{
+	margin:2%;
+	text-align:center;
+}
+
+.fixada{
+	position: absolute;
+}
+.linkar{
+	text-decoration: none;
+	color:#000000;
+}
+.topoLogo{
+margin:1%;
+width: 100%;
+height:7%;
+}
+.titulo{
+	margin:0.5%;
+	float:left;
+	font-size:30px;
+	
+}
+.logo1{
+	
+	float:left;
+	width:2.5%;
+	height:70%;
+}
+.nomeResenha{
+padding:2%;
+text-align: center;
+}
+.fotoResenha{
+	margin-top:14%;
+}
+
+.tit{
+	height: 80%;
+	width: 12%;	
+}
+
+.aaa{
+	text-shadow: 1px 1px gray;
+	text-decoration: underline;
+}
